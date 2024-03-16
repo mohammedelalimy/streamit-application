@@ -1,1 +1,1 @@
-# streamit-application
+# streamlit-application
